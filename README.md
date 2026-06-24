@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/RAJA8112008/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/RAJA8112008/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/RAJA8112008/Leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/RAJA8112008/Leetcode/tree/master/0075-sort-colors) |
@@ -43,9 +44,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/RAJA8112008/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/RAJA8112008/Leetcode/tree/master/0054-spiral-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/RAJA8112008/Leetcode/tree/master/0054-spiral-matrix) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/RAJA8112008/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->

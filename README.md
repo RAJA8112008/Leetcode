@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/RAJA8112008/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/RAJA8112008/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/RAJA8112008/Leetcode/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RAJA8112008/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -98,10 +99,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/RAJA8112008/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/RAJA8112008/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/RAJA8112008/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/RAJA8112008/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/RAJA8112008/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

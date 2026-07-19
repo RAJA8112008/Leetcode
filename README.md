@@ -150,11 +150,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/RAJA8112008/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/RAJA8112008/Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/RAJA8112008/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/RAJA8112008/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Stack
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/RAJA8112008/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/RAJA8112008/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/RAJA8112008/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Trie
 |  |
 | ------- |
@@ -215,4 +217,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/RAJA8112008/Leetcode/tree/master/0070-climbing-stairs) |
+## Greedy
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/RAJA8112008/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/RAJA8112008/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->

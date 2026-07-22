@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/RAJA8112008/Leetcode/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/RAJA8112008/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/RAJA8112008/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1370-increasing-decreasing-string](https://github.com/RAJA8112008/Leetcode/tree/master/1370-increasing-decreasing-string) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RAJA8112008/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Divide and Conquer
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/RAJA8112008/Leetcode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/RAJA8112008/Leetcode/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/RAJA8112008/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1370-increasing-decreasing-string](https://github.com/RAJA8112008/Leetcode/tree/master/1370-increasing-decreasing-string) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RAJA8112008/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Dynamic Programming
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/RAJA8112008/Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/RAJA8112008/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RAJA8112008/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1370-increasing-decreasing-string](https://github.com/RAJA8112008/Leetcode/tree/master/1370-increasing-decreasing-string) |
 ## Stack
 |  |
 | ------- |

@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/RAJA8112008/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/RAJA8112008/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/RAJA8112008/Leetcode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/RAJA8112008/Leetcode/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/RAJA8112008/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/RAJA8112008/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RAJA8112008/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/RAJA8112008/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/RAJA8112008/Leetcode/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/RAJA8112008/Leetcode/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/RAJA8112008/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RAJA8112008/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Dynamic Programming
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/RAJA8112008/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/RAJA8112008/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/RAJA8112008/Leetcode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/RAJA8112008/Leetcode/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/RAJA8112008/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/RAJA8112008/Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/RAJA8112008/Leetcode/tree/master/1021-remove-outermost-parentheses) |

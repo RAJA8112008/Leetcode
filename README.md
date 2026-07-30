@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/RAJA8112008/Leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/RAJA8112008/Leetcode/tree/master/0070-climbing-stairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RAJA8112008/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RAJA8112008/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RAJA8112008/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RAJA8112008/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/RAJA8112008/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RAJA8112008/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1370-increasing-decreasing-string](https://github.com/RAJA8112008/Leetcode/tree/master/1370-increasing-decreasing-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RAJA8112008/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Stack
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RAJA8112008/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RAJA8112008/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Monotonic Stack
 |  |
 | ------- |

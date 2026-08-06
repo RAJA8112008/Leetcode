@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RAJA8112008/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RAJA8112008/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RAJA8112008/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/RAJA8112008/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RAJA8112008/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -274,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/RAJA8112008/Leetcode/tree/master/0733-flood-fill) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/RAJA8112008/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->

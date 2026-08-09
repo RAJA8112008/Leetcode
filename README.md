@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/RAJA8112008/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/RAJA8112008/Leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/RAJA8112008/Leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/RAJA8112008/Leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/RAJA8112008/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/RAJA8112008/Leetcode/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/RAJA8112008/Leetcode/tree/master/0229-majority-element-ii) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/RAJA8112008/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/RAJA8112008/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/RAJA8112008/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/RAJA8112008/Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/RAJA8112008/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/RAJA8112008/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/RAJA8112008/Leetcode/tree/master/1020-number-of-enclaves) |
@@ -271,12 +273,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/RAJA8112008/Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/RAJA8112008/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/RAJA8112008/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/RAJA8112008/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/RAJA8112008/Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/RAJA8112008/Leetcode/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/RAJA8112008/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Enumeration
@@ -286,5 +290,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/RAJA8112008/Leetcode/tree/master/0200-number-of-islands) |
 | [1020-number-of-enclaves](https://github.com/RAJA8112008/Leetcode/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->

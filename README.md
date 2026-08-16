@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/RAJA8112008/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RAJA8112008/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RAJA8112008/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/RAJA8112008/Leetcode/tree/master/2029-stone-game-ix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RAJA8112008/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RAJA8112008/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3731-find-missing-elements](https://github.com/RAJA8112008/Leetcode/tree/master/3731-find-missing-elements) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/RAJA8112008/Leetcode/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/RAJA8112008/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1370-increasing-decreasing-string](https://github.com/RAJA8112008/Leetcode/tree/master/1370-increasing-decreasing-string) |
+| [2029-stone-game-ix](https://github.com/RAJA8112008/Leetcode/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RAJA8112008/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Dynamic Programming
 |  |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/RAJA8112008/Leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/RAJA8112008/Leetcode/tree/master/0070-climbing-stairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RAJA8112008/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/RAJA8112008/Leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RAJA8112008/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RAJA8112008/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/RAJA8112008/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RAJA8112008/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2029-stone-game-ix](https://github.com/RAJA8112008/Leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RAJA8112008/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Monotonic Stack
 |  |
@@ -331,4 +335,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/RAJA8112008/Leetcode/tree/master/0207-course-schedule) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/RAJA8112008/Leetcode/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/RAJA8112008/Leetcode/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/RAJA8112008/Leetcode/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/RAJA8112008/Leetcode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->

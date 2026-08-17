@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/RAJA8112008/Leetcode/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/RAJA8112008/Leetcode/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/RAJA8112008/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RAJA8112008/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RAJA8112008/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/RAJA8112008/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/RAJA8112008/Leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/RAJA8112008/Leetcode/tree/master/0070-climbing-stairs) |
+| [0412-fizz-buzz](https://github.com/RAJA8112008/Leetcode/tree/master/0412-fizz-buzz) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RAJA8112008/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/RAJA8112008/Leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RAJA8112008/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/RAJA8112008/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/RAJA8112008/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/RAJA8112008/Leetcode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/RAJA8112008/Leetcode/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/RAJA8112008/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/RAJA8112008/Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/RAJA8112008/Leetcode/tree/master/1021-remove-outermost-parentheses) |

@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/RAJA8112008/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RAJA8112008/Leetcode/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/RAJA8112008/Leetcode/tree/master/0392-is-subsequence) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/RAJA8112008/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/RAJA8112008/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/RAJA8112008/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RAJA8112008/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/RAJA8112008/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Bucket Sort
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/RAJA8112008/Leetcode/tree/master/0207-course-schedule) |
 | [0733-flood-fill](https://github.com/RAJA8112008/Leetcode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/RAJA8112008/Leetcode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/RAJA8112008/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/RAJA8112008/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/RAJA8112008/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/RAJA8112008/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/RAJA8112008/Leetcode/tree/master/0207-course-schedule) |
 | [0733-flood-fill](https://github.com/RAJA8112008/Leetcode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/RAJA8112008/Leetcode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/RAJA8112008/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1020-number-of-enclaves](https://github.com/RAJA8112008/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/RAJA8112008/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Enumeration
@@ -322,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/RAJA8112008/Leetcode/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/RAJA8112008/Leetcode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/RAJA8112008/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -362,4 +367,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/RAJA8112008/Leetcode/tree/master/1631-path-with-minimum-effort) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/RAJA8112008/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->

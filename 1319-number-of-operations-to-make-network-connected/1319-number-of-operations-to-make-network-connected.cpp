@@ -1,38 +1,32 @@
 class Solution {
 public:
- void dfs(int node,vector<bool>&visited,unordered_map<int,vector<int>>&adj){
-    //mark as visited
-    visited[node]=true;
-    //travese on its nbr 
-    for(auto nbr:adj[node]){
-        if(!visited[nbr]){
-            dfs(nbr,visited,adj);
-        }
-    }
- }
+int find(int&x,vector<int>&parent){
+    //if parent have same then return the parent node
+    if(parent[x]==x)return parent[x];
+    return find(parent[x],parent);
+}
     int makeConnected(int n, vector<vector<int>>& connections) {
-        //usind DFS 
-
-          //if edges are not enought to connect graph 
-          if(connections.size()<n-1)return -1;
-        //create an adj list 
-
-        unordered_map<int,vector<int>>adj;
-        for(int i=0;i<connections.size();i++){
-            int u=connections[i][0];
-            int v=connections[i][1];
-            //undirected graph
-            adj[u].push_back(v);
-            adj[v].push_back(u);
-        }
-    
-      
-        int components=0;
-        vector<bool>visited(n,false);
+        //if edges are sufficent 
+        if(connections.size()<n-1)return -1;
+        //Union find method 
+        vector<int>element(n);
         for(int i=0;i<n;i++){
-            if(!visited[i]){
-                dfs(i,visited,adj);
-                components++;
+            element[i]=i;
+        }
+        //parents 
+        vector<int>parent(n);
+        for(int i=0;i<n;i++){
+            parent[i]=i;
+        }
+        // connents components 
+        int components=n;
+        for(int i=0;i<connections.size();i++){
+            int x_parent=find(connections[i][0],parent);
+            int y_parent=find(connections[i][1],parent);
+            //check both are same or not 
+            if(x_parent!=y_parent){
+                 parent[x_parent]=y_parent;
+                components--;
             }
         }
         return components-1;

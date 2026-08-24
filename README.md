@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/RAJA8112008/Leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/RAJA8112008/Leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/RAJA8112008/Leetcode/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/RAJA8112008/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/RAJA8112008/Leetcode/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/RAJA8112008/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/RAJA8112008/Leetcode/tree/master/1020-number-of-enclaves) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/RAJA8112008/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/RAJA8112008/Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/RAJA8112008/Leetcode/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/RAJA8112008/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/RAJA8112008/Leetcode/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/RAJA8112008/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/RAJA8112008/Leetcode/tree/master/1020-number-of-enclaves) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/RAJA8112008/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RAJA8112008/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/RAJA8112008/Leetcode/tree/master/0704-binary-search) |
+| [0778-swim-in-rising-water](https://github.com/RAJA8112008/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/RAJA8112008/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RAJA8112008/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## String
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/RAJA8112008/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0743-network-delay-time](https://github.com/RAJA8112008/Leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/RAJA8112008/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RAJA8112008/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RAJA8112008/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/RAJA8112008/Leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -313,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/RAJA8112008/Leetcode/tree/master/0207-course-schedule) |
 | [0733-flood-fill](https://github.com/RAJA8112008/Leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/RAJA8112008/Leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/RAJA8112008/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/RAJA8112008/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RAJA8112008/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0827-making-a-large-island](https://github.com/RAJA8112008/Leetcode/tree/master/0827-making-a-large-island) |
@@ -329,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/RAJA8112008/Leetcode/tree/master/0207-course-schedule) |
 | [0733-flood-fill](https://github.com/RAJA8112008/Leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/RAJA8112008/Leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/RAJA8112008/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/RAJA8112008/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RAJA8112008/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0827-making-a-large-island](https://github.com/RAJA8112008/Leetcode/tree/master/0827-making-a-large-island) |
@@ -344,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/RAJA8112008/Leetcode/tree/master/0200-number-of-islands) |
+| [0778-swim-in-rising-water](https://github.com/RAJA8112008/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/RAJA8112008/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/RAJA8112008/Leetcode/tree/master/0827-making-a-large-island) |
 | [1020-number-of-enclaves](https://github.com/RAJA8112008/Leetcode/tree/master/1020-number-of-enclaves) |
@@ -382,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/RAJA8112008/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [2029-stone-game-ix](https://github.com/RAJA8112008/Leetcode/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
@@ -400,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/RAJA8112008/Leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/RAJA8112008/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/RAJA8112008/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/RAJA8112008/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path

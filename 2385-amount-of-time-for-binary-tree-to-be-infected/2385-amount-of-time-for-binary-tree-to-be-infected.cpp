@@ -11,69 +11,78 @@
  */
 class Solution {
 public:
-TreeNode* searchnode(TreeNode* root, int start){
+TreeNode* findNode(TreeNode* root,int start){
+    //base case 
+      //root is not presernt 
     if(root==NULL)return NULL;
-    if(root->val==start)return root;
-   
-     TreeNode* leftnode= searchnode(root->left,start);
-        if(leftnode!=NULL)return leftnode;
-    
-    return searchnode(root->right,start);
-
+    if(root->val==start){
+        return root;
+    }
+  
+    //now left and right side 
+    TreeNode* left= findNode(root->left,start);
+    //it may be NULL '
+    if(left!=NULL)return left;
+    //travese on its right sides
+    return findNode(root->right,start);
 }
     int amountOfTime(TreeNode* root, int start) {
-     int time=0;
-     //create an attachment 
-    unordered_map<TreeNode*,TreeNode*>parent;
-      
-     queue<TreeNode*>q;
-     q.push(root);
-     //mark it visited
-
-     parent[root]=NULL;
-     while(!q.empty()){
-        TreeNode* node=q.front();
-        q.pop();
-        //push its right and left with parent mark 
-        if(node->left){
-            q.push(node->left);
-            //mark its  parent 
-            parent[node->left]=node;
-        }
-        if(node->right){
-            q.push(node->right);
-            //mark 
-            parent[node->right]=node;
-        }
-     }
-     //find node into the tree 
-     TreeNode* startnode=searchnode(root,start);
-     //Bfs 
-     unordered_map<TreeNode*,bool>visited;
-     q.push(startnode);
-     visited[startnode]=true;
-     while(!q.empty()){
-        int size=q.size();
-        for(int i=0;i<size;i++){
+        //store first parent of each node 
+        unordered_map<TreeNode*,TreeNode*>parent;
+        //mark root parent -1
+        parent[root]=NULL;
+        //mark all nodes parent 
+        queue<TreeNode*>q;
+        q.push(root);
+        //while
+        while(!q.empty()){
             TreeNode* node=q.front();
             q.pop();
-            //bfs 
-            if(node->left && !visited[node->left]){
+            //check its child first 
+            if(node->left){
                 q.push(node->left);
-                visited[node->left]=true;
+                parent[node->left]=node;
             }
-            if(node->right && !visited[node->right]){
+            if(node->right){
                 q.push(node->right);
-                visited[node->right]=true;
+                parent[node->right]=node;
             }
-            if(parent[node]&& !visited[parent[node]]){
-                 q.push(parent[node]);
-                 visited[parent[node]]=true;
-            }
-           
+
         }
-        time++;
-     }
-    return time-1;
+        //find node from where have to make infected
+        TreeNode* stnode=findNode(root,start);
+      //find out node from here have to infr=ect tree 
+       //take an visited array to track
+       unordered_map<TreeNode*,bool>visited;
+      q.push(stnode);
+      visited[stnode]=true;
+      int time=0;
+      //travesre on its all childs and parets
+      while(!q.empty()){
+        int size=q.size();
+        for(int i=0;i<size;i++){
+             TreeNode* node=q.front();
+             q.pop();
+              //childs 
+         if(node->left && !visited[node->left]){
+            q.push(node->left);
+            //mark it visited
+            visited[node->left]=true;
+         }
+         if(node->right && !visited[node->right]){
+            q.push(node->right);
+            //mark it visited
+            visited[node->right]=true;
+         }
+         //parent 
+         if(parent[node] && !visited[parent[node]]){
+            q.push(parent[node]);
+            visited[parent[node]]=true;
+         }
+        }
+       time++;
+      }
+     return time-1;
+
     }
 };

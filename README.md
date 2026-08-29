@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/RAJA8112008/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/RAJA8112008/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/RAJA8112008/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/RAJA8112008/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/RAJA8112008/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/RAJA8112008/Leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/RAJA8112008/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/RAJA8112008/Leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/RAJA8112008/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RAJA8112008/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/RAJA8112008/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/RAJA8112008/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/RAJA8112008/Leetcode/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/RAJA8112008/Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/RAJA8112008/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/RAJA8112008/Leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/RAJA8112008/Leetcode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/RAJA8112008/Leetcode/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/RAJA8112008/Leetcode/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/RAJA8112008/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1927-sum-game](https://github.com/RAJA8112008/Leetcode/tree/master/1927-sum-game) |

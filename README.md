@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/RAJA8112008/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/RAJA8112008/Leetcode/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/RAJA8112008/Leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/RAJA8112008/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/RAJA8112008/Leetcode/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RAJA8112008/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RAJA8112008/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/RAJA8112008/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/RAJA8112008/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/RAJA8112008/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/RAJA8112008/Leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/RAJA8112008/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/RAJA8112008/Leetcode/tree/master/0645-set-mismatch) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RAJA8112008/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/RAJA8112008/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/RAJA8112008/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/RAJA8112008/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/RAJA8112008/Leetcode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/RAJA8112008/Leetcode/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/RAJA8112008/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/RAJA8112008/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/RAJA8112008/Leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/RAJA8112008/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/RAJA8112008/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/RAJA8112008/Leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/RAJA8112008/Leetcode/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/RAJA8112008/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1927-sum-game](https://github.com/RAJA8112008/Leetcode/tree/master/1927-sum-game) |
@@ -206,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/RAJA8112008/Leetcode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/RAJA8112008/Leetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/RAJA8112008/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/RAJA8112008/Leetcode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RAJA8112008/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/RAJA8112008/Leetcode/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/RAJA8112008/Leetcode/tree/master/0778-swim-in-rising-water) |
@@ -326,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/RAJA8112008/Leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/RAJA8112008/Leetcode/tree/master/0645-set-mismatch) |
 ## Breadth-First Search
 |  |

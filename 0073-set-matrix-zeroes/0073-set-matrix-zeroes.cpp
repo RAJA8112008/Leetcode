@@ -1,31 +1,36 @@
 class Solution {
 public:
     void setZeroes(vector<vector<int>>& matrix) {
-        //first store indexes having zero 
-        int n=matrix.size();
-        int m=matrix[0].size();
-        vector<int>rowstore;
-        vector<int>colstore;
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
+        int m=matrix.size();
+        int n=matrix[0].size();
+        //first  store row 
+        vector<int>row;
+        //store column
+        vector<int>col;
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
                 if(matrix[i][j]==0){
-                    rowstore.push_back(i);
-                    colstore.push_back(j);
+                    row.push_back(i);
+                    col.push_back(j);
                 }
             }
         }
-       //convert row having zero its all elements 
-       for(auto row:rowstore){
-        for(int i=0;i<m;i++){
-            matrix[row][i]=0;
+        //now convert the all rows into zero 
+        for(int i=0;i<row.size();i++){
+            int nrow=row[i];
+            //convert with zero 
+            for(int i=0;i<n;i++){
+                matrix[nrow][i]=0;
+            }
         }
-       }
-
-        for(auto col:colstore){
-        for(int i=0;i<n;i++){
-            matrix[i][col]=0;
+         //now convert the all column into zero
+         for(int i=0;i<col.size();i++){
+            int ncol=col[i];
+            //convert with zero 
+            for(int i=0;i<m;i++){
+                matrix[i][ncol]=0;
+            }
         }
-       }
-       
+        
     }
 };

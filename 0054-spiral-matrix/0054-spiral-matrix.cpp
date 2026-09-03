@@ -1,41 +1,42 @@
 class Solution {
 public:
     vector<int> spiralOrder(vector<vector<int>>& matrix) {
-       int row=matrix.size();
-       int col=matrix[0].size();
-       int firstrow=0;
-       int firstcol=0;
-       int lastrow=row-1;
-       int lastcol=col-1;
-       int count=0;
-       int total=row*col;
-       vector<int>ans;
-       while(count<total){
-        //first row 
-        for(int i=firstcol;i<=lastcol && count<total;i++){
-            ans.push_back(matrix[firstrow][i]);
+        int row=matrix.size();
+        int col=matrix[0].size();
+        int total =row*col;
+        int strow=0;
+        int edrow=row-1;
+        int stcol=0;
+        int edcol=col-1;
+        int count=0;//to track the number of elem are visited
+      vector<int>ans;
+      while(count<total){
+        //first col 
+        for(int i=stcol;i<=edcol && count<total;i++){
+            ans.push_back(matrix[strow][i]);
             count++;
         }
-        firstrow++;
+        strow++;
         //last col 
-        for(int i=firstrow;i<=lastrow && count<total;i++){
-            ans.push_back(matrix[i][lastcol]);
+        for(int i=strow;i<=edrow && count<total;i++){
+            ans.push_back(matrix[i][edcol]);
             count++;
         }
-        lastcol--;
-        //last row 
-        for(int i=lastcol;i>=firstcol && count<total;i--){
-            ans.push_back(matrix[lastrow][i]);
+        edcol--;
+        //last col
+        for(int i=edcol;i>=stcol && count<total;i--){
+            ans.push_back(matrix[edrow][i]);
             count++;
         }
-        lastrow--;
-        //first row 
-        for(int i=lastrow;i>=firstrow && count<total;i--){
-            ans.push_back(matrix[i][firstcol]);
+        edrow--;
+        //first col 
+        for(int i=edrow;i>=strow && count<total;i--){
+            ans.push_back(matrix[i][stcol]);
             count++;
         }
-        firstcol++;
-       }
-       return ans;
+        stcol++;
+      }
+    return ans;
+
     }
 };

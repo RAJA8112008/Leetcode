@@ -1,16 +1,20 @@
 class Solution {
 public:
     void rotate(vector<vector<int>>& matrix) {
-         //first interchange rows  to col 
-         int n=matrix.size();
-         for(int i=0;i<n;i++){
-            for(int j=i;j<n;j++){
-               swap(matrix[i][j],matrix[j][i]);
+        int row=matrix.size();
+        int col=matrix[0].size();
+        //create a matrix
+        vector<vector<int>>mat(row,vector<int>(col,0));
+        //step 1:interchange row to column 
+        for(int i=0;i<row;i++){
+            for(int j=0;j<col;j++){
+                mat[j][i]=matrix[i][j];
             }
-         }
-         //reverse the interchanged values 
-         for(int i=0;i<n;i++){
-            reverse(matrix[i].begin(),matrix[i].end());
-         }
+        }
+        //step 2:reverse last col to first column
+       for(int i=0;i<row;i++){
+        reverse(mat[i].begin(),mat[i].end());
+       }
+        matrix=mat;
     }
 };

@@ -469,4 +469,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RAJA8112008/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/RAJA8112008/Leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->

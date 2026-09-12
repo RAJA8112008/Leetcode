@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/RAJA8112008/Leetcode/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/RAJA8112008/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/RAJA8112008/Leetcode/tree/master/0827-making-a-large-island) |
+| [0875-koko-eating-bananas](https://github.com/RAJA8112008/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/RAJA8112008/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/RAJA8112008/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/RAJA8112008/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/RAJA8112008/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/RAJA8112008/Leetcode/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/RAJA8112008/Leetcode/tree/master/0778-swim-in-rising-water) |
+| [0875-koko-eating-bananas](https://github.com/RAJA8112008/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1631-path-with-minimum-effort](https://github.com/RAJA8112008/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RAJA8112008/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## String

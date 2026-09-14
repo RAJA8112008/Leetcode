@@ -2,28 +2,31 @@ class Solution {
 public:
     string reverseWords(string s) {
         vector<string>words;
-        for(int i=0;i<s.length();i++){
-            //first remove spaces 
-            while(s[i]==' '){
+        int n =s.length();
+         string word="";
+        for(int i=0;i<n;i++){
+            
+            //skip spaces 
+            while(i<n && s[i]==' '){
                 i++;
             }
-            string word="";
-            while(i<s.length() && s[i]!=' '){
-              word+=s[i];
-              i++;
+            while(i<n && s[i]!=' '){
+                word+=s[i];
+                i++;
             }
-            if(!word.empty()){
-            words.push_back(word);
+            //push it into words 
+            if(word.size()>0){
+                words.push_back(word);
             }
-            //empty word
             word="";
         }
-        //reverse the words vector 
+        //reverse the words vector
         reverse(words.begin(),words.end());
+        //remove words from thw words vector and put into the ans 
         string ans="";
         for(int i=0;i<words.size();i++){
             ans+=words[i];
-            //add space except last word
+            //add space 
             if(i!=words.size()-1){
                 ans+=" ";
             }

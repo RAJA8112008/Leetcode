@@ -1,22 +1,22 @@
 class Solution {
 public:
     string removeOuterParentheses(string s) {
-        int depth=0;
+        int count=0;
         string ans="";
-        for(auto val:s){
-            if(val=='('){
-                //ignore first parenthese
-                if(depth>0){
-                    ans+=val;
+        for(int i=0;i<s.length();i++){
+            if(s[i]=='('){
+                if(count>0){
+                    ans+=s[i];
                 }
-                depth++;
-            }else{
-                depth--;
-                if(depth>0){
-                    ans+=val;
+                count++;
+            
+            }else if(s[i]==')'){
+                count--;
+                if(count>0){
+                    ans+=s[i];
                 }
             }
         }
-         return ans;
+        return ans;
     }
 };

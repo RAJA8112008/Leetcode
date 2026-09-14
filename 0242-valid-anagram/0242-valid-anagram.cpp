@@ -1,18 +1,19 @@
 class Solution {
 public:
-    bool isAnagram(string s, string t) {
-        if(s.length()!=t.length())return false;
+    bool isAnagram(string s, string goal) {
+         if(s.length()!=goal.length())return false;
         unordered_map<char,int>mp;
-        //first store each char in map of s 
-        for(int i=0;i<s.length();i++){
-            mp[s[i]]++;
+        for(auto ch:s){
+            mp[ch]++;
         }
-        //remove char from map storing char of t 
-        for(int i=0;i<t.length();i++){
-            mp[t[i]]--;
+        //again travese 
+        for(auto ch:goal){
+            if(mp.find(ch)!=mp.end()){
+                mp[ch]--;
+            }
         }
-        for(auto val:mp){
-            if(val.second!=0)return false;
+        for(auto c:mp){
+            if(c.second!=0)return false;
         }
         return true;
     }

@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/RAJA8112008/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/RAJA8112008/Leetcode/tree/master/0645-set-mismatch) |
 | [1370-increasing-decreasing-string](https://github.com/RAJA8112008/Leetcode/tree/master/1370-increasing-decreasing-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/RAJA8112008/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/RAJA8112008/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RAJA8112008/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RAJA8112008/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/RAJA8112008/Leetcode/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/RAJA8112008/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1370-increasing-decreasing-string](https://github.com/RAJA8112008/Leetcode/tree/master/1370-increasing-decreasing-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/RAJA8112008/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2029-stone-game-ix](https://github.com/RAJA8112008/Leetcode/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RAJA8112008/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/RAJA8112008/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/RAJA8112008/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RAJA8112008/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1370-increasing-decreasing-string](https://github.com/RAJA8112008/Leetcode/tree/master/1370-increasing-decreasing-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/RAJA8112008/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1927-sum-game](https://github.com/RAJA8112008/Leetcode/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RAJA8112008/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RAJA8112008/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RAJA8112008/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/RAJA8112008/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/RAJA8112008/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RAJA8112008/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RAJA8112008/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Number Theory

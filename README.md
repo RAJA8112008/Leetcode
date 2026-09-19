@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RAJA8112008/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [4024-nearest-available-drone](https://github.com/RAJA8112008/Leetcode/tree/master/4024-nearest-available-drone) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/RAJA8112008/Leetcode/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
+| [4034-minimum-bishop-moves-to-reach-target](https://github.com/RAJA8112008/Leetcode/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 ## Two Pointers
 |  |
 | ------- |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/RAJA8112008/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/RAJA8112008/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RAJA8112008/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4034-minimum-bishop-moves-to-reach-target](https://github.com/RAJA8112008/Leetcode/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 ## Binary Search
 |  |
 | ------- |

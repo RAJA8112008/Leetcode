@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/RAJA8112008/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/RAJA8112008/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/RAJA8112008/Leetcode/tree/master/0283-move-zeroes) |
+| [0403-frog-jump](https://github.com/RAJA8112008/Leetcode/tree/master/0403-frog-jump) |
 | [0485-max-consecutive-ones](https://github.com/RAJA8112008/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/RAJA8112008/Leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RAJA8112008/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/RAJA8112008/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RAJA8112008/Leetcode/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/RAJA8112008/Leetcode/tree/master/0392-is-subsequence) |
+| [0403-frog-jump](https://github.com/RAJA8112008/Leetcode/tree/master/0403-frog-jump) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RAJA8112008/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/RAJA8112008/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Prefix Sum

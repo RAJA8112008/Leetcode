@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/RAJA8112008/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/RAJA8112008/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/RAJA8112008/Leetcode/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/RAJA8112008/Leetcode/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/RAJA8112008/Leetcode/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/RAJA8112008/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/RAJA8112008/Leetcode/tree/master/0796-rotate-string) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/RAJA8112008/Leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/RAJA8112008/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/RAJA8112008/Leetcode/tree/master/0402-remove-k-digits) |
 | [1021-remove-outermost-parentheses](https://github.com/RAJA8112008/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RAJA8112008/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Trie
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/RAJA8112008/Leetcode/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RAJA8112008/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/RAJA8112008/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/RAJA8112008/Leetcode/tree/master/2029-stone-game-ix) |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/RAJA8112008/Leetcode/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RAJA8112008/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Bit Manipulation
 |  |

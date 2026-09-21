@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/RAJA8112008/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/RAJA8112008/Leetcode/tree/master/0268-missing-number) |
+| [0401-binary-watch](https://github.com/RAJA8112008/Leetcode/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/RAJA8112008/Leetcode/tree/master/0645-set-mismatch) |
 ## Breadth-First Search
 |  |
@@ -537,4 +538,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/RAJA8112008/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/RAJA8112008/Leetcode/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->

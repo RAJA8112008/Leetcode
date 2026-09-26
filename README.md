@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RAJA8112008/Leetcode/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/RAJA8112008/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/RAJA8112008/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/RAJA8112008/Leetcode/tree/master/0402-remove-k-digits) |
 | [1021-remove-outermost-parentheses](https://github.com/RAJA8112008/Leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/RAJA8112008/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/RAJA8112008/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/RAJA8112008/Leetcode/tree/master/0207-course-schedule) |
 | [0733-flood-fill](https://github.com/RAJA8112008/Leetcode/tree/master/0733-flood-fill) |
@@ -497,10 +499,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/RAJA8112008/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/RAJA8112008/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/RAJA8112008/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/RAJA8112008/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Quicksort
 |  |

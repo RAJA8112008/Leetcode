@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/RAJA8112008/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/RAJA8112008/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RAJA8112008/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/RAJA8112008/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/RAJA8112008/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/RAJA8112008/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RAJA8112008/Leetcode/tree/master/0213-house-robber-ii) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/RAJA8112008/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RAJA8112008/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/RAJA8112008/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/RAJA8112008/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/RAJA8112008/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/RAJA8112008/Leetcode/tree/master/0207-course-schedule) |
 | [0543-diameter-of-binary-tree](https://github.com/RAJA8112008/Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/RAJA8112008/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RAJA8112008/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/RAJA8112008/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/RAJA8112008/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/RAJA8112008/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/RAJA8112008/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
@@ -525,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/RAJA8112008/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RAJA8112008/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/RAJA8112008/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/RAJA8112008/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/RAJA8112008/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/RAJA8112008/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Quicksort
@@ -576,5 +580,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/RAJA8112008/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/RAJA8112008/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->

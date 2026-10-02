@@ -1,51 +1,38 @@
 class Solution {
 public:
-vector<pair<int,int>>directions{
-     {1,0},
-    {-1,0},
-    {0,1},
-    {0,-1}
-};
+vector<pair<int,int>>directions={{1,0},{0,1},{-1,0},{0,-1}};
     int minimumEffortPath(vector<vector<int>>& heights) {
-        //Dijkastra algorithum 
-        int m=heights.size();
-        int n=heights[0].size();
-        vector<vector<int>>result(m,vector<int>(n,INT_MAX));
-     priority_queue<
-    pair<int,pair<int,int>>,
-    vector<pair<int,pair<int,int>>>,
-    greater<pair<int,pair<int,int>>>
-     > q;
-       
-        q.push({0,{0,0}});
-        result[0][0]=0;
+        int n=heights.size();
+        int m=heights[0].size();
+        priority_queue<tuple<int,int,int>,vector<tuple<int,int,int>>,greater<tuple<int,int,int>>>q;
+        
+        vector<vector<int>>dist(n,vector<int>(m,INT_MAX));
+        q.push({0,0,0});
+        dist[0][0]=0;
         while(!q.empty()){
-            int wt=q.top().first;
-            int i=q.top().second.first;
-            int j=q.top().second.second;
+            auto temp=q.top();
             q.pop();
-            //nbr 
-             if(wt > result[i][j]) continue;
-            if(i==m-1 && j==n-1)return wt;
+            int effort=get<0>(temp);
+            int i=get<1>(temp);
+            int j=get<2>(temp);
+            if(i==n-1 && j==m-1)return effort;
+            //directions
             for(auto dir:directions){
-                int ni = i + dir.first;
-                int nj = j + dir.second;
-                //boundry condition 
-                 if(ni < 0 || nj < 0 || ni >= m || nj >= n)
-                    continue;
-              int edgewt=abs(heights[ni][nj]-heights[i][j]);
-              int newEffort = max(wt, edgewt);
-
-                if(newEffort < result[ni][nj]) {
-
-                    result[ni][nj] = newEffort;
-
-                    q.push({newEffort,{ni,nj}});
+                int ni=dir.first+i;
+                int nj=dir.second+j;
+                //boundry conditions 
+                if(ni>=0 && nj>=0 && ni<n && nj<m && dist[ni][nj]){
+                    //difference 
+                    int diff=abs(heights[ni][nj]-heights[i][j]);
+                    int neweffort=max(effort,diff);
+                    if(neweffort<dist[ni][nj]){
+                        q.push({neweffort,ni,nj});
+                        dist[ni][nj]=neweffort;
+                    }
+                    
                 }
             }
         }
-
-       return 0;
-
+        return 0;
     }
 };

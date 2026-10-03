@@ -2,28 +2,30 @@ class Solution {
 public:
     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
         vector<int>ans;
-        for(int i=0;i<nums1.size();i++){
-            int j=0;
-            while(j<nums2.size() && nums1[i]!=nums2[j]){
-               j++;
-            }
-            bool flag=false;
-            while(j<nums2.size()){
-                    if(nums2[j]>nums1[i]){
-                        ans.push_back(nums2[j]);
-                        flag=true;
-                        break;
-                    }
 
-                    j++;
+        for(int i=0;i<nums1.size();i++){
+             stack<int>st;
+              int num=nums1[i];
+             for(int i=nums2.size()-1;i>=0;i--){
+                st.push(nums2[i]);
+              }
+            while(!st.empty() && num!=st.top()){
+                st.pop();
             }
-            cout<<"i-->"<<i<<" "<<"j-->"<<j<<endl;
-            if(flag==false){
-                 ans.push_back(-1);
+            // if(!st.empty()){
+            //     st.pop();
+            // }
+            
+            while(!st.empty() && num>=st.top()){
+                st.pop();
             }
-           
+            if(!st.empty()){
+                ans.push_back(st.top());
+            }else{
+                ans.push_back(-1);
+            }
+
         }
         return ans;
- }
-
+    }
 };

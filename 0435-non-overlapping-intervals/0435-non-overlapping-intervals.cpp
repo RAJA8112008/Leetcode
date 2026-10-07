@@ -3,26 +3,23 @@ public:
     int eraseOverlapIntervals(vector<vector<int>>& intervals) {
         int n=intervals.size();
         sort(intervals.begin(),intervals.end());
-        int i=0;
-        int j=1;
+        vector<vector<int>>ans;
         int count=0;
-        while(j<n){
-            //overlapp
-            if(intervals[i][1]>intervals[j][0]){
-                if(intervals[i][1]<intervals[j][1]){
-                        count++;
-                        j++;
-                }else{
+        ans.push_back(intervals[0]);
+       for(int i=1;i<n;i++){
+            //overlapp condition
+            if(ans.back()[1]>intervals[i][0]){
+                 //remove chose 
+                 if(ans.back()[1]>=intervals[i][1]){
                     count++;
-                    i=j;
-                    j++;
-                }
+                    ans.push_back(intervals[i]);
+                 }else{
+                    count++;
+                 }
             }else{
-                 i=j;
-                j++;
+                ans.push_back(intervals[i]);
             }
-           
-        }
+       }
         return count;
     }
 };

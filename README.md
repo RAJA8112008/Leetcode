@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/RAJA8112008/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/RAJA8112008/Leetcode/tree/master/0283-move-zeroes) |
 | [0403-frog-jump](https://github.com/RAJA8112008/Leetcode/tree/master/0403-frog-jump) |
+| [0435-non-overlapping-intervals](https://github.com/RAJA8112008/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/RAJA8112008/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/RAJA8112008/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/RAJA8112008/Leetcode/tree/master/0493-reverse-pairs) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/RAJA8112008/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/RAJA8112008/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/RAJA8112008/Leetcode/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/RAJA8112008/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/RAJA8112008/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/RAJA8112008/Leetcode/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/RAJA8112008/Leetcode/tree/master/0645-set-mismatch) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/RAJA8112008/Leetcode/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/RAJA8112008/Leetcode/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/RAJA8112008/Leetcode/tree/master/0403-frog-jump) |
+| [0435-non-overlapping-intervals](https://github.com/RAJA8112008/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RAJA8112008/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/RAJA8112008/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Prefix Sum
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/RAJA8112008/Leetcode/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/RAJA8112008/Leetcode/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/RAJA8112008/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/RAJA8112008/Leetcode/tree/master/0455-assign-cookies) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RAJA8112008/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/RAJA8112008/Leetcode/tree/master/1927-sum-game) |

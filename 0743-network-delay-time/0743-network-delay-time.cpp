@@ -1,44 +1,40 @@
 class Solution {
 public:
     int networkDelayTime(vector<vector<int>>& times, int n, int k) {
-        //create an adj list 
+        //create an adj List 
         unordered_map<int,vector<pair<int,int>>>adj;
         for(int i=0;i<times.size();i++){
             int u=times[i][0];
             int v=times[i][1];
             int w=times[i][2];
-            //directed map
+            //directed graph 
             adj[u].push_back({v,w});
         }
-        //crete a vector which will store min to reach each node 
+        //creaet an dist 
         vector<int>dist(n+1,INT_MAX);
-        //create an priority queue 
-        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>>q;
-
-        //push into the queue 
-        q.push({k,0});
         dist[k]=0;
-        while(!q.empty()){
-            int node=q.top().first;
-            int d=q.top().second;
-            q.pop();
-            //traverse on its nbr with min d
-            for(auto nbr:adj[node]){
-                int n_node=nbr.first;
-                int n_d=nbr.second;
-                if(d+n_d<dist[n_node]){
-                    dist[n_node]=d+n_d;
-                    q.push({n_node,d+n_d});
+        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>>pq;
+        pq.push({0,k});
+        while(!pq.empty()){
+            int time=pq.top().first;
+            int u=pq.top().second;
+            pq.pop();
+            //move its nbr 
+            for(auto nbr:adj[u]){
+                int v=nbr.first;
+                int newtime=nbr.second;
+                if(newtime+time<dist[v]){
+                    dist[v]=newtime+time;
+                    //push into the queue 
+                    pq.push({newtime+time,v});
                 }
             }
-
         }
-        //
-       int maxi=0;
-       for(int i=1;i<=n;i++){
-        if(dist[i]==INT_MAX)return -1;
-        maxi=max(maxi,dist[i]);
-       }
-       return maxi;
+        int ans=INT_MIN;
+        for(int i=1;i<dist.size();i++){
+            if(dist[i]==INT_MAX)return -1;
+            ans=max(ans,dist[i]);
+        }
+        return ans;
     }
 };

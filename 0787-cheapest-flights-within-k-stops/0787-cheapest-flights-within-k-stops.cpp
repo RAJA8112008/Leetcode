@@ -1,64 +1,36 @@
 class Solution {
 public:
     int findCheapestPrice(int n, vector<vector<int>>& flights, int src, int dst, int k) {
-
-        // create adjacency list
-        unordered_map<int, vector<pair<int, int>>> adj;
-
-        for (int i = 0; i < flights.size(); i++) {
-            int u = flights[i][0];
-            int v = flights[i][1];
-            int w = flights[i][2];
-
-            adj[u].push_back({v, w});
+        //create an adjList 
+        unordered_map<int,vector<pair<int,int>>>adj;
+        for(int i=0;i<flights.size();i++){
+            int u=flights[i][0];
+            int v=flights[i][1];
+            int cost=flights[i][2];
+            //directed graph 
+            adj[u].push_back({v,cost});
         }
-
-        // dist[i] = minimum cost to reach i
-        vector<int> dist(n, INT_MAX);
-
-        // queue -> {node, cost}
-        queue<pair<int, int>> q;
-
-        q.push({src, 0});
-        dist[src] = 0;
-
-        int stops = 0;
-
-        while (!q.empty() && stops <= k) {
-
-            int size = q.size();
-
-            // copy of dist for this level
-            vector<int> temp = dist;
-
-            while (size--) {
-
-                int node = q.front().first;
-                int cost = q.front().second;
-                q.pop();
-
-                // traverse neighbours
-                for (auto nbr : adj[node]) {
-
-                    int nextNode = nbr.first;
-                    int price = nbr.second;
-
-                    if (cost + price < temp[nextNode]) {
-
-                        temp[nextNode] = cost + price;
-
-                        q.push({nextNode, temp[nextNode]});
-                    }
-                }
+        queue<tuple<int,int,int>>q;
+        vector<int>dist(n,INT_MAX);
+        dist[src]=0;
+        q.push({src,0,-1});
+        while(!q.empty()){
+          int u=get<0>(q.front());
+          int cost=get<1>(q.front());
+          int stop=get<2>(q.front());
+         
+          q.pop();
+          //traverse its nbr 
+          for(auto nbr:adj[u]){
+            int v=nbr.first;
+            int nbrcost=nbr.second;
+            //will update if stop is less then k stops 
+            if(nbrcost+cost<dist[v] && stop<=k-1){
+                dist[v]=nbrcost+cost;
+                q.push({v,nbrcost+cost,stop+1});
             }
-
-            dist = temp;
-            stops++;
+          }
         }
-
-        if (dist[dst] == INT_MAX)
-            return -1;
-
-        return dist[dst];
+        return dist[dst] == INT_MAX ? -1 : dist[dst];
     }
 };

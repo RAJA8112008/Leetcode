@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/RAJA8112008/Leetcode/tree/master/0827-making-a-large-island) |
 | [0875-koko-eating-bananas](https://github.com/RAJA8112008/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/RAJA8112008/Leetcode/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/RAJA8112008/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/RAJA8112008/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/RAJA8112008/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/RAJA8112008/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/RAJA8112008/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/RAJA8112008/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/RAJA8112008/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/RAJA8112008/Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RAJA8112008/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Matrix
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/RAJA8112008/Leetcode/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/RAJA8112008/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/RAJA8112008/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/RAJA8112008/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/RAJA8112008/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1631-path-with-minimum-effort](https://github.com/RAJA8112008/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RAJA8112008/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RAJA8112008/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/RAJA8112008/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/RAJA8112008/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/RAJA8112008/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RAJA8112008/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RAJA8112008/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
